@@ -1,7 +1,7 @@
 # Website2TwitterBanner
 Simple bash script to update the Twitter banner image with a blurred screenshot of a website
 
-I mainly wrote this to see if it can be done from a shell. This can of course be adapted to do all sorts of twitter stuff.
+I mainly wrote this to see if it can be done from a shell. It is deliberately kept simple. There is no error handling or parameter processing. This can of course be adapted to do all sorts of twitter stuff in more reliable ways.
 
 ## Dependencies
 
