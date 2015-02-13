@@ -7,6 +7,7 @@ I mainly wrote this to see if it can be done from a shell. It is deliberately ke
 
 * **bash**
 * **xvfb** if run on a headless system (such as a server)
+* **xauth**
 * **cutycapt** to make the screenshot
 * **imagemagick** to process the screenshot
 * **curl** for the request
